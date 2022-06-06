@@ -1,0 +1,30 @@
+{
+  "name": "byndyusoft-test-task",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "function sum2MinNums",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elizablok/byndyusoft-test-task.git"
+  },
+  "author": "elizablok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizablok/byndyusoft-test-task/issues"
+  },
+  "homepage": "https://github.com/elizablok/byndyusoft-test-task#readme",
+  "devDependencies": {
+    "@jest/globals": "^28.1.0",
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jest": "^26.4.6",
+    "jest": "^28.1.0",
+    "jest-cli": "^28.1.0"
+  }
+}

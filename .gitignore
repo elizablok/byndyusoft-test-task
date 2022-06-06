@@ -1,0 +1,4 @@
+/node_modules/
+*.log
+coverage
+byndyusoft-test-task-1.0.0.tgz
