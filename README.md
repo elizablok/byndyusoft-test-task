@@ -16,6 +16,3 @@ The test task for Byndysoft. *sum2MinNums* is a function that receives an array 
 
 ### Usage:
 Import the function in your project
-
-#### Tutorial of using *sum2MinNums*:
-[![asciicast](https://asciinema.org/a/.svg)](https://asciinema.org/a/)
