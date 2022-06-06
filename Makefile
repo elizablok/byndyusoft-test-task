@@ -1,5 +1,5 @@
 install:
-	nmp ci
+	npm ci
 
 summariser:
 	node src/summariser.js
