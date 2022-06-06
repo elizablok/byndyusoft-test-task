@@ -1,9 +1,9 @@
 ### Tests and linter status:
 [![Node CI](https://github.com/elizablok/byndyusoft-test-task/actions/workflows/node-ci.yml/badge.svg)](https://github.com/elizablok/byndyusoft-test-task/actions/workflows/node-ci.yml)
 
-[![Maintainability](https://api.codeclimate.com/)](https://codeclimate.com/github/elizablok/byndyusoft-test-task/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/413ec642ed530d9ad83c/maintainability)](https://codeclimate.com/github/elizablok/byndyusoft-test-task/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/)](https://codeclimate.com/github/elizablok/byndyusoft-test-task/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/413ec642ed530d9ad83c/test_coverage)](https://codeclimate.com/github/elizablok/byndyusoft-test-task/test_coverage)
 
 ### Description:
 
